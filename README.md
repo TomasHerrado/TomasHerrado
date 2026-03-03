@@ -61,12 +61,33 @@ I develop complete solutions, working with:
 ![Jira](https://img.shields.io/badge/Jira-B22222?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+### 🎨 Pinceletas
+
+🛠️ Full Stack E-Commerce · Microservices Architecture · Angular + Spring Boot
+
+[![Ver Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasHerrado/pinceletas-system-architecture)
+
+---
+
+### 🏢 Consorcio
+
+🛠️ Full Stack Application · Microservices Architecture · Angular + Spring Boot
+
+[![Ver Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasHerrado/consorcio-system-architecture)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TomasHerrado&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasHerrado&theme=radical" />
 </p>
 
 ---
