@@ -85,10 +85,9 @@ I develop complete solutions, working with:
 
 ## 📊 GitHub Stats
 
+![Tomas GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TomasHerrado&show_icons=true&theme=dark&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117)
 
-![Tomas GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomasHerrado&show_icons=true&theme=dark&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasHerrado&layout=compact&theme=dark&title_color=8B0000&text_color=ffffff&bg_color=0d1117)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomasHerrado&layout=compact&theme=dark&title_color=8B0000&text_color=ffffff&bg_color=0d1117)
 
 ---
 
