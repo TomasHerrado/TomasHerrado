@@ -67,17 +67,17 @@ I develop complete solutions, working with:
 
 ### 🎨 Pinceletas
 
-🛠️ Full Stack E-Commerce · Microservices Architecture · Angular + Spring Boot
+🛠️ Full Stack E-Commerce · Microservices Architecture
 
-[![Ver Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasHerrado/pinceletas-system-architecture)
+[![Ver Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasHerrado/pinceletas-system-architecture)
 
 ---
 
 ### 🏢 Consorcio
 
-🛠️ Full Stack Application · Microservices Architecture · Angular + Spring Boot
+🛠️ Full Stack Application · Microservices Architecture
 
-[![Ver Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasHerrado/consorcio-system-architecture)
+[![Ver Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasHerrado/consorcio-system-architecture)
 
 </div>
 
