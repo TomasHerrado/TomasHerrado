@@ -86,11 +86,13 @@ I develop complete solutions, working with:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TomasHerrado&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomasHerrado&show_icons=true&theme=dark&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TomasHerrado&theme=dark&background=0d1117&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=ffffff&dates=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomasHerrado&bg_color=0d1117&color=8B0000&line=8B0000&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomasHerrado&bg_color=0d1117&color=ffffff&line=8B0000&point=8B0000&area=true&hide_border=true" />
 </p>
 
 ---
