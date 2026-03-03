@@ -86,10 +86,9 @@ I develop complete solutions, working with:
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasHerrado&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasHerrado&theme=radical&hide_border=true" height="165" />
-</p>
+![Tomas GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomasHerrado&show_icons=true&theme=dark&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasHerrado&layout=compact&theme=dark&title_color=8B0000&text_color=ffffff&bg_color=0d1117)
 
 ---
 
