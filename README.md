@@ -79,6 +79,14 @@ I develop complete solutions, working with:
 
 [![Ver Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasHerrado/consorcio-system-architecture)
 
+---
+
+### 🛒 Trade Management System
+
+🛠️ Full Stack Multi-Tenant Application · RBAC & Statistics Dashboard
+
+[![Ver Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasHerrado/Trade-Management-System-Architecture.git)
+
 </div>
 
 ---
